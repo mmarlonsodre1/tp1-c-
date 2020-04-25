@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TP1.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "TP1.ConsoleApp.Divisao": "1.0.0",
+          "TP1.ConsoleApp.Multiplicacao": "1.0.0",
+          "TP1.ConsoleApp.Soma": "1.0.0",
+          "TP1.ConsoleApp.Subtracao": "1.0.0"
+        },
+        "runtime": {
+          "TP1.ConsoleApp.dll": {}
+        }
+      },
+      "TP1.ConsoleApp.Divisao/1.0.0": {
+        "runtime": {
+          "TP1.ConsoleApp.Divisao.dll": {}
+        }
+      },
+      "TP1.ConsoleApp.Multiplicacao/1.0.0": {
+        "runtime": {
+          "TP1.ConsoleApp.Multiplicacao.dll": {}
+        }
+      },
+      "TP1.ConsoleApp.Soma/1.0.0": {
+        "runtime": {
+          "TP1.ConsoleApp.Soma.dll": {}
+        }
+      },
+      "TP1.ConsoleApp.Subtracao/1.0.0": {
+        "runtime": {
+          "TP1.ConsoleApp.Subtracao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP1.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TP1.ConsoleApp.Divisao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TP1.ConsoleApp.Multiplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TP1.ConsoleApp.Soma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TP1.ConsoleApp.Subtracao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

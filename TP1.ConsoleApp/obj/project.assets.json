@@ -1,0 +1,145 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TP1.ConsoleApp.Divisao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TP1.ConsoleApp.Divisao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TP1.ConsoleApp.Divisao.dll": {}
+        }
+      },
+      "TP1.ConsoleApp.Multiplicacao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TP1.ConsoleApp.Multiplicacao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TP1.ConsoleApp.Multiplicacao.dll": {}
+        }
+      },
+      "TP1.ConsoleApp.Soma/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TP1.ConsoleApp.Soma.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TP1.ConsoleApp.Soma.dll": {}
+        }
+      },
+      "TP1.ConsoleApp.Subtracao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TP1.ConsoleApp.Subtracao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TP1.ConsoleApp.Subtracao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP1.ConsoleApp.Divisao/1.0.0": {
+      "type": "project",
+      "path": "../TP1.ConsoleApp.Divisao/TP1.ConsoleApp.Divisao.csproj",
+      "msbuildProject": "../TP1.ConsoleApp.Divisao/TP1.ConsoleApp.Divisao.csproj"
+    },
+    "TP1.ConsoleApp.Multiplicacao/1.0.0": {
+      "type": "project",
+      "path": "../TP1.ConsoleApp.Multiplicacao/TP1.ConsoleApp.Multiplicacao.csproj",
+      "msbuildProject": "../TP1.ConsoleApp.Multiplicacao/TP1.ConsoleApp.Multiplicacao.csproj"
+    },
+    "TP1.ConsoleApp.Soma/1.0.0": {
+      "type": "project",
+      "path": "../TP1.ConsoleApp.Soma/TP1.ConsoleApp.Soma.csproj",
+      "msbuildProject": "../TP1.ConsoleApp.Soma/TP1.ConsoleApp.Soma.csproj"
+    },
+    "TP1.ConsoleApp.Subtracao/1.0.0": {
+      "type": "project",
+      "path": "../TP1.ConsoleApp.Subtracao/TP1.ConsoleApp.Subtracao.csproj",
+      "msbuildProject": "../TP1.ConsoleApp.Subtracao/TP1.ConsoleApp.Subtracao.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TP1.ConsoleApp.Divisao >= 1.0.0",
+      "TP1.ConsoleApp.Multiplicacao >= 1.0.0",
+      "TP1.ConsoleApp.Soma >= 1.0.0",
+      "TP1.ConsoleApp.Subtracao >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\marli\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\marli\\Downloads\\TP1.ConsoleApp\\TP1.ConsoleApp\\TP1.ConsoleApp.csproj",
+      "projectName": "TP1.ConsoleApp",
+      "projectPath": "C:\\Users\\marli\\Downloads\\TP1.ConsoleApp\\TP1.ConsoleApp\\TP1.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\marli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marli\\Downloads\\TP1.ConsoleApp\\TP1.ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\marli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\marli\\Downloads\\TP1.ConsoleApp\\TP1.ConsoleApp.Divisao\\TP1.ConsoleApp.Divisao.csproj": {
+              "projectPath": "C:\\Users\\marli\\Downloads\\TP1.ConsoleApp\\TP1.ConsoleApp.Divisao\\TP1.ConsoleApp.Divisao.csproj"
+            },
+            "C:\\Users\\marli\\Downloads\\TP1.ConsoleApp\\TP1.ConsoleApp.Multiplicacao\\TP1.ConsoleApp.Multiplicacao.csproj": {
+              "projectPath": "C:\\Users\\marli\\Downloads\\TP1.ConsoleApp\\TP1.ConsoleApp.Multiplicacao\\TP1.ConsoleApp.Multiplicacao.csproj"
+            },
+            "C:\\Users\\marli\\Downloads\\TP1.ConsoleApp\\TP1.ConsoleApp.Soma\\TP1.ConsoleApp.Soma.csproj": {
+              "projectPath": "C:\\Users\\marli\\Downloads\\TP1.ConsoleApp\\TP1.ConsoleApp.Soma\\TP1.ConsoleApp.Soma.csproj"
+            },
+            "C:\\Users\\marli\\Downloads\\TP1.ConsoleApp\\TP1.ConsoleApp.Subtracao\\TP1.ConsoleApp.Subtracao.csproj": {
+              "projectPath": "C:\\Users\\marli\\Downloads\\TP1.ConsoleApp\\TP1.ConsoleApp.Subtracao\\TP1.ConsoleApp.Subtracao.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

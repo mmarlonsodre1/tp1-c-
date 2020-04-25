@@ -1,0 +1,13 @@
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\bin\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.exe
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\bin\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.deps.json
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\bin\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.runtimeconfig.json
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\bin\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.runtimeconfig.dev.json
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\bin\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.dll
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\bin\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.pdb
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\obj\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.csprojAssemblyReference.cache
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\obj\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.csproj.CoreCompileInputs.cache
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\obj\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.AssemblyInfoInputs.cache
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\obj\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.AssemblyInfo.cs
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\obj\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.dll
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\obj\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.pdb
+C:\Users\marli\Downloads\TP1.ConsoleApp\TP1.ConsoleApp.Multiplicacao\obj\Debug\netcoreapp3.1\TP1.ConsoleApp.Multiplicacao.genruntimeconfig.cache
